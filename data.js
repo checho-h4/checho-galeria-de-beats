@@ -70,5 +70,13 @@ const BEATS = [
     key: "Bm",
     desc: "Rhodes suave, vinyl crackle y una caja lenta. Para quedarse quieto un rato.",
     youtubeId: "VIDEO_ID_6"
+  },
+  {
+    title: "Ámbar",
+    genre: "Lo-Fi",
+    bpm: 76,
+    key: "Bm",
+    desc: "Rhodes suave, vinyl crackle y una caja lenta. Para quedarse quieto un rato.",
+    youtubeId: "VIDEO_ID_6"
   }
 ];
