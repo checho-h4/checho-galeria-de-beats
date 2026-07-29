@@ -57,7 +57,7 @@ const BEATS = [
   },
   {
     title: "Papel y Tinta",
-    genre: "Boom Bap",
+    genre: "Afrobeats",
     bpm: 90,
     key: "Cm",
     desc: "Batería con textura de sampler y bajo caminante. Vibra de cuaderno y grabadora vieja.",
