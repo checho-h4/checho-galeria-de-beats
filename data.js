@@ -56,12 +56,12 @@ const BEATS = [
     youtubeId: "VIDEO_ID_4"
   },
   {
-    title: "Papel y Tinta",
+    title: "Bahia",
     genre: "Afrobeats",
-    bpm: 90,
-    key: "Cm",
-    desc: "Batería con textura de sampler y bajo caminante. Vibra de cuaderno y grabadora vieja.",
-    youtubeId: "VIDEO_ID_5"
+    bpm: 103,
+    key: "Bbm",
+    desc: "Un beat original inspirado en el sonido de Relsb , Beele y el afrobeat moderno. Perfecto para artistas que buscan un sonido fresco, melódico y con vibras veraniegas.",
+    youtubeId: "1IYa0SgaUbY"
   },
   {
     title: "Ámbar",
