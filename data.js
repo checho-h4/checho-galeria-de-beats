@@ -5,7 +5,7 @@
 
 // Tus enlaces de contacto / redes
 const CONTACT = {
-  instagram: "https://instagram.com/checho.w4",
+  instagram: "https://ig.me/m/checho.w4",
   youtube:   "https://youtube.com/@checho.h4",
   whatsapp:  "https://wa.me/573027305977", // tu número con código de país, sin + ni espacios
   email:     "https://www.tiktok.com/@checho.h4"
