@@ -13,8 +13,8 @@ const CONTACT = {
 
 // Mensajes que rotan en la barra naranja (novedades/ventas)
 const TICKER_ITEMS = [
-  "Nuevos beat cada semana",
-  "25% OFF en pack de 3 beats este mes",
+  "Nuevos beats cada semana",
+  "25% OFF en pack de 3 beats",
   "Escucha antes de licenciar",
   "Escríbeme para beats hechos a tu medida"
 ];
