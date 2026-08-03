@@ -24,36 +24,36 @@ const TICKER_ITEMS = [
 //    Ej: https://www.youtube.com/watch?v=ABC12345678  ->  youtubeId: "ABC12345678"
 const BEATS = [
   {
-    title: "Humo Bajo",
-    genre: "Lo-Fi",
-    bpm: 84,
-    key: "Am",
-    desc: "Percusión suave, piano cálido y una textura de vinilo de fondo. Ideal para versos tranquilos.",
-    youtubeId: "VIDEO_ID_1"
+    title: "Cristal",
+    genre: "Afrobeats",
+    bpm: 100,
+    key: "Cm",
+    desc: "Un beat original inspirado en el sonido de Rels B y los ritmos urbanos actuales. Ideal para crear canciones con melodías pegajosas y una atmósfera relajada.",
+    youtubeId: "370WwFyP4XQ"
   },
   {
-    title: "Calle Once",
-    genre: "Trap",
-    bpm: 140,
-    key: "F#m",
-    desc: "808 profundo y hi-hats rápidos con un lead oscuro. Pensado para tomas de rap directas.",
-    youtubeId: "VIDEO_ID_2"
-  },
-  {
-    title: "Marea",
+    title: "ALIXA",
     genre: "R&B",
-    bpm: 92,
-    key: "Dm",
-    desc: "Acordes de guitarra eléctrica limpia sobre un groove relajado. Espacio para melodías largas.",
-    youtubeId: "VIDEO_ID_3"
+    bpm: 85,
+    key: "Cm",
+    desc: "Beat original inspirado en el sonido de Rels B y Kali Uchis. Un instrumental con influencias de R&B moderno, ideal para voces melódicas, canciones emocionales y proyectos con un sonido limpio y envolvente.",
+    youtubeId: "X-tQ4p4AYzY"
   },
   {
-    title: "Costa Sur",
-    genre: "Reggaetón",
-    bpm: 96,
-    key: "Gm",
-    desc: "Dembow clásico con capas de percusión latina y un sub grave constante.",
-    youtubeId: "VIDEO_ID_4"
+    title: "TiWA",
+    genre: "Afrobeats",
+    bpm: 98,
+    key: "G#",
+    desc: "Un beat inspirado en el estilo de Rels B y Kapo, con una mezcla de melodías cálidas y percusión moderna. Perfecto para destacar con un sonido único.",
+    youtubeId: "6idQ0ZRNmxE"
+  },
+  {
+    title: "Press",
+    genre: "Afrobeats",
+    bpm: 108,
+    key: "F#",
+    desc: "Un instrumental inspirado en Rels B y Beéle, diseñado para voces melódicas y propuestas urbanas con mucha personalidad.",
+    youtubeId: "UnREZt79FeE"
   },
   {
     title: "Bahia",
