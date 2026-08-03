@@ -64,12 +64,12 @@ const BEATS = [
     youtubeId: "1IYa0SgaUbY"
   },
   {
-    title: "Ámbar",
-    genre: "Lo-Fi",
-    bpm: 76,
-    key: "Bm",
-    desc: "Rhodes suave, vinyl crackle y una caja lenta. Para quedarse quieto un rato.",
-    youtubeId: "VIDEO_ID_6"
+    title: "FALTA",
+    genre: "Afrobeats",
+    bpm: 104,
+    key: "Cm",
+    desc: "Beat original inspirado en el sonido de Beéle. Un instrumental con influencias de afrobeat moderno, ideal para artistas que buscan un sonido fresco, melódico y comercial.",
+    youtubeId: "tY1_uVuPf44"
   },
   {
     title: "Ámbar",
