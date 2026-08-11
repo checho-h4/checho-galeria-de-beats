@@ -64,6 +64,30 @@ const BEATS = [
     youtubeId: "1IYa0SgaUbY"
   },
   {
+    title: "WUYI",
+    genre: "Afrobeats",
+    bpm: 102,
+    key: "C#",
+    desc: "Un beat inspirado en Kapo y Rels B, ideal para transmitir emociones con un ritmo envolvente y melodías memorables.",
+    youtubeId: "Gr3_SHU6_LU"
+  },
+  {
+    title: "Como El Sol",
+    genre: "Afrobeats",
+    bpm: 104,
+    key: "Ebm",
+    desc: "Instrumental con esencia de  Rels B y Beéle, perfecto para temas relajados con un toque elegante y actual.",
+    youtubeId: "E50u6vtFmq0"
+  },
+  {
+    title: "Miles",
+    genre: "Afrobeats",
+    bpm: 95,
+    key: "Bbm",
+    desc: "Beat original inspirado en Rels B, creado para artistas que buscan un sonido fresco y auténtico.",
+    youtubeId: "ap9Os4qKQWY"
+  },
+  { 
     title: "FALTA",
     genre: "Afrobeats",
     bpm: 104,
@@ -71,12 +95,20 @@ const BEATS = [
     desc: "Beat original inspirado en el sonido de Beéle. Un instrumental con influencias de afrobeat moderno, ideal para artistas que buscan un sonido fresco, melódico y comercial.",
     youtubeId: "tY1_uVuPf44"
   },
+  { 
+    title: "Tiki",
+    genre: "Afrobeats",
+    bpm: 99,
+    key: "Em",
+    desc: "Una producción inspirada en Beéle y Kapo, con melodías suaves y una energía moderna.",
+    youtubeId: "FroeTRhuK44"
+  },
   {
-    title: "Ámbar",
-    genre: "Lo-Fi",
-    bpm: 76,
-    key: "Bm",
-    desc: "Rhodes suave, vinyl crackle y una caja lenta. Para quedarse quieto un rato.",
-    youtubeId: "VIDEO_ID_6"
+    title: "NUDE",
+    genre: "R&B",
+    bpm: 85,
+    key: "Fm",
+    desc: "Beat con inspiración en Rels B y Daniel Caesar. Una producción de R&B moderno con texturas cálidas y un ambiente emocional.",
+    youtubeId: "lXrvXv1YJ5E"
   }
 ];
